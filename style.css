@@ -3,6 +3,7 @@
     margin: 0;
 }
 #game{
+    background-color: dimgray;
     width: 400px;
     height: 500px;
     border: 1px solid black;
@@ -10,10 +11,9 @@
     overflow: hidden;
 }
 #character{
-    width: 20px;
-    height: 20px;
-    background-color: red;
-    border-radius: 50%;
+    background-image: url(link_character.jpg);
+    width: 25px;
+    height: 18px;
     position: relative;
     top: 400px;
     left: 190px;
@@ -30,7 +30,7 @@
 .hole{
     width: 40px;
     height: 20px;
-    background-color: white;
+    background-color: dimgray;
     position: relative;
     top: 100px;
     margin-top: -20px;
