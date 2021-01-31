@@ -11,9 +11,9 @@
     overflow: hidden;
 }
 #character{
-    background-image: url(link_character.jpg);
-    width: 25px;
-    height: 18px;
+    background-image: url(link_character.png);
+    width: 20px;
+    height: 21px;
     position: relative;
     top: 400px;
     left: 190px;
